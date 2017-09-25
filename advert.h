@@ -7,7 +7,6 @@ using std::vector;
 const string ad = "<span class=\"attribute-name\">title</span>=\"<a class=\"attribute-value\">Объявление <span class=\"entity\"><span>&amp;</span>laquo;</span>"; 
 const string about = "</span><span>&lt;/<span class=\"end-tag\">h3</span>&gt;</span><span> </span><span>&lt;<span class=\"start-tag\">div</span> <span class=\"attribute-name\">class</span>=\"<a class=\"attribute-value\">about</a>\"&gt;</span><span>";
 const string rub = "руб.";
-//const string ph = "фотографий)"; 
 class Advert
 {
 private:
